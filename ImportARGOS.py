@@ -7,6 +7,9 @@
 ## Usage: ImportArgos <ARGOS folder> <Output feature class> 
 ##
 ## Created: Fall 2020
-## Author: John.Fay@duke.edu (for ENV859)
+## Author: corie.grewal@duke.edu (for ENV859)
 ##---------------------------------------------------------------------
+
+# Import modules
+import sys, os, arcpy
 
